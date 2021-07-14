@@ -1,3 +1,3 @@
-install pyttsx3 package
+install pyttsx3 package -for text to speech
 install pyaudio -for microphone
-install wikepedia
+install pyjokes-for jokes 
